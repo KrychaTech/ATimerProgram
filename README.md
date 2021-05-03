@@ -14,4 +14,11 @@ python3 main.py
 ## Dependencies
 
 ```bash
+pip3 install pyfiglet
+sudo apt-get install mpg123
+```
 
+## Use
+this program is really easy to use, just select an option. to close the program, simply close the terminal or press CTRL+C.
+![alt text](https://media.discordapp.net/attachments/785846326033514506/838724501491154974/Screenshot_from_2021-05-03_12-21-10.png?width=788&height=443)
+![alt text](https://cdn.discordapp.com/attachments/785846326033514506/838724463951478784/Screenshot_from_2021-05-03_12-23-17.png)
